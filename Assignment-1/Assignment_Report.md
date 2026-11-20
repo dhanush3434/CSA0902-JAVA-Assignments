@@ -3,7 +3,7 @@
 
 **Student Name:** [M Dhanush kumar]  
 **Register Number:** [192525318]  
-**GitHub Link:** [Paste your repository link]  
+**GitHub Link:** [https://github.com/dhanush3434/CSA0902-JAVA-Assignments]  
 **Java Version:** JDK 8 or later
 
 > This is a simple student-level explanation. Read the answers, run the programs, and make sure you can explain them during the viva.

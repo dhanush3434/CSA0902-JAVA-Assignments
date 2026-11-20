@@ -1,8 +1,8 @@
 # STUDENT DETAILS
 
-**Name:** YAZHINI.E.M
+**Name:** M Dhanush kumar
 
-**Register Number:** 192511165
+**Register Number:** 192525318
 
 **Course Name:** Java Programming
 

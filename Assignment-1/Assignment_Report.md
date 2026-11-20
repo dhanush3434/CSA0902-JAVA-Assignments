@@ -1,8 +1,8 @@
 # CO1 Java Assignment 1
 ## Campus Smart-Parking System
 
-**Student Name:** [Enter your name]  
-**Register Number:** [Enter your register number]  
+**Student Name:** [M Dhanush kumar]  
+**Register Number:** [192525318]  
 **GitHub Link:** [Paste your repository link]  
 **Java Version:** JDK 8 or later
 

@@ -73,5 +73,5 @@ Task 07 compares repeated String concatenation with StringBuilder using average 
 - Java Collections Framework
 
 ## Author
-**Thamarai V**  
-Register Number: **192424002**
+**M Dhanush Kumar**  
+Register Number: **192525318**

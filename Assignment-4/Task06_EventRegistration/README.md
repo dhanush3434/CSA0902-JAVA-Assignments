@@ -1,8 +1,8 @@
 # CSA09 – Java Programming Assignment 4
 ## Student Details
 
-- **Name:** YAZHINI.E.M
-- **Register Number:**192511165
+- **Name:** M Dhanush Kumar
+- **Register Number:**192525318
 - **Course Name:**JAVA PROGRAMMING
 - **Course Code:**CSA0901
 
